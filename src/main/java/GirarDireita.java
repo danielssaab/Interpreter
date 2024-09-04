@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class GirarDireita {
+public class GirarDireita implements InterpretadorExpressao {
+
+	@Override
+	public void interpretar(Robo robo) {
+		robo.girarDireita();
+	}
 }

@@ -4,31 +4,127 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="246dd396-c5ac-48ea-80f5-7a8826655a5c" name="Changes" comment="" />
+    <list default="true" id="246dd396-c5ac-48ea-80f5-7a8826655a5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GirarDireita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GirarDireita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GirarEsquerda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GirarEsquerda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterpretadorComandosRobo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterpretadorComandosRobo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterpretadorExpressao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterpretadorExpressao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Movimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Movimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Posicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Posicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Robo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Robo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/asda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/InterpretadorExpressaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/InterpretadorExpressaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RoboTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RoboTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lDjsvUhI5H6cXPIvFQPf2wXqZJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RoboTest">
+    <configuration name="InterpretadorExpressaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Interpreter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpretadorExpressaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpretadorExpressaoTest.deveExecutarComandosCombinados" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Interpreter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpretadorExpressaoTest" />
+      <option name="METHOD_NAME" value="deveExecutarComandosCombinados" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpretadorExpressaoTest.deveExecutarGiroEsquerda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Interpreter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpretadorExpressaoTest" />
+      <option name="METHOD_NAME" value="deveExecutarGiroEsquerda" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpretadorExpressaoTest.deveExecutarMovimentoParaFrente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Interpreter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InterpretadorExpressaoTest" />
+      <option name="METHOD_NAME" value="deveExecutarMovimentoParaFrente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoboTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Interpreter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RoboTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoboTest" />
+        <item itemvalue="JUnit.InterpretadorExpressaoTest" />
+        <item itemvalue="JUnit.InterpretadorExpressaoTest.deveExecutarComandosCombinados" />
+        <item itemvalue="JUnit.InterpretadorExpressaoTest.deveExecutarGiroEsquerda" />
+        <item itemvalue="JUnit.InterpretadorExpressaoTest.deveExecutarMovimentoParaFrente" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

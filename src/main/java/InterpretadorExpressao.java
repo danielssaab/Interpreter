@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class InterpretadorExpressao {
+public interface InterpretadorExpressao {
+	void interpretar(Robo robo);
 }
