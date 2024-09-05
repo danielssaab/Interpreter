@@ -7,7 +7,8 @@ public class Movimento implements InterpretadorExpressao {
 	}
 
 	@Override
-	public void interpretar(Robo robo) {
+	public String interpretar(Robo robo) {
 		robo.moverFrente(passos);
+		return null;
 	}
 }

@@ -64,4 +64,8 @@ public class Robo {
 	public String getPosicao() {
 		return "Posição: (" + x + ", " + y + ") Direção: " + direcao;
 	}
+
+	public String getDirecao() {
+		return direcao;
+	}
 }

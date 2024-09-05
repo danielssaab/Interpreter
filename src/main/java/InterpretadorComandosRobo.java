@@ -33,10 +33,11 @@ public class InterpretadorComandosRobo implements InterpretadorExpressao {
 	}
 
 	@Override
-	public void interpretar(Robo robo) {
+	public String interpretar(Robo robo) {
 		while (!pilhaInterpretadores.isEmpty()) {
-			InterpretadorExpressao interpretador = pilhaInterpretadores.remove(0); // Corrigido para processar todos os comandos
+			InterpretadorExpressao interpretador = pilhaInterpretadores.remove(0);
 			interpretador.interpretar(robo);
 		}
+		return null;
 	}
 }

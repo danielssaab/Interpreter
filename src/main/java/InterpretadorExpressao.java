@@ -1,3 +1,3 @@
 public interface InterpretadorExpressao {
-	void interpretar(Robo robo);
+	String interpretar(Robo robo);
 }
